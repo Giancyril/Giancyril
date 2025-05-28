@@ -58,56 +58,26 @@
 <br />
 
 <br />
-<br />
-
 
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-        <p align="center">
-        <a href="https://github.com/Giancyril">
-          <img width="450" height="180" src="https://streak-stats.demolab.com/?user=Giancyril&theme=react&border=61dafb&hide_border=true" alt="Giancyril Streak Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Gᴇɴᴇʀᴀʟ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Giancyril">
-          <img width="450" height="180" src="https://github-readme-stats.vercel.app/api?username=Giancyril&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Giancyril GitHub Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢuᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Giancyril">
-          <img width="450" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancyril&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Giancyril Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Aᴄᴛɪᴠɪᴛʏ Gʀᴀᴘʜ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Giancyril">
-          <img width="450" height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Giancyril&theme=react-dark&bg_color=20232a&hide_border=true" alt="Giancyril Activity Graph"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giancyril&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Giancyril&amp;theme=dark&amp;hide_border=false">
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Giancyril&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
 <br />
 
 <h2 align="center">💻 Pʀᴏɢʀᴀᴍᴍɪɴɢ & Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ Sᴛᴀᴄᴋ</h2>
 <p align="center">
-<br />
   <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
   <img title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
