@@ -16,7 +16,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a passionate <strong>Character Design Artist</strong> who loves crafting unique personalities and visual stories. With a strong artistic foundation, I'm now also diving into the world of programming, learning how to code to expand my creative horizons and potentially build tools for artists.</p>
+<p align="left">I am a passionate Character Design Artist who loves crafting unique personalities and visual stories. With a strong artistic foundation, I'm now also diving into the world of programming, learning how to code to expand my creative horizons and potentially build tools for artists.</p>
 
 - ✨ Student of life, always eager to explore new artistic techniques and coding concepts.
 - 🌱 I’m currently focused on improving my character design skills and mastering the fundamentals of coding.
@@ -34,7 +34,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
