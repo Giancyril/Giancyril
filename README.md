@@ -105,7 +105,7 @@
 </table>
 <br />
 
-<h3 align="center">💻 Programming & Development Stack</h3>
+<h2 align="center">💻 Pʀᴏɢʀᴀᴍᴍɪɴɢ & Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ Sᴛᴀᴄᴋ</h2>
 <p align="center">
 <br />
   <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
