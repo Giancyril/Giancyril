@@ -44,15 +44,14 @@
 <br />
 <br />
 <br />
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h3>
 <ul align="left">
-  <li>Deepening my understanding of character design and expressive posing.</li>
-  <li>Exploring advanced rendering techniques in Procreate/Photoshop.</li>
+  <li>Deepening my understanding of character anatomy and working on expressive posing.</li>
+  <li>Exploring advanced rendering techniques in Procreate/Photoshop for polished visuals.</li>
   <li>Building foundational skills in PHP and other languages for creative tools and web basics.</li>
-  <li>Dabbling in basic game development in Unity/Godot.</li>
+  <li>Dabbling in basic game development, experimenting with Unity/Godot.</li>
 </ul>
 
-<br />
 <br />
 <br />
 <br />
