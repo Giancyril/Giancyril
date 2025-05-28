@@ -42,11 +42,15 @@
 </picture>
 <br />
 
+
+<br />
+<br />
+<br />
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my understanding of character design and expressive posing.</li>
   <li>Exploring advanced rendering techniques in Procreate/Photoshop.</li>
-  <li>Building foundational skills in PH for creative tools and web basics.</li>
+  <li>Building foundational skills in PHP and other languages for creative tools and web basics.</li>
   <li>Dabbling in basic game development in Unity/Godot.</li>
 </ul>
   
