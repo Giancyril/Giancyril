@@ -32,7 +32,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<h2 align="center">Tᴇᴄʜɴᴏʟᴏɢɪᴇs & Cʀᴇᴀᴛɪᴠᴇ Sᴏғᴛᴡᴀʀᴇ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -78,6 +78,7 @@
 </tbody></table>
 <br />
 
+
 <h2 align="center">💻 Pʀᴏɢʀᴀᴍᴍɪɴɢ & Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ Sᴛᴀᴄᴋ</h2>
 <p align="center">
   <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
@@ -93,6 +94,7 @@
   <img title="Unity" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity"/>
 </p>
 <br />
+ 
 
 
 
