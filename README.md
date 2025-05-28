@@ -15,15 +15,13 @@
 *(Artist / Programmer)*
 <br /> 
 
-<!--Start Intro-->               
-<p align="left">I am a passionate Character Design Artist who loves crafting unique personalities and visual stories. With a strong artistic foundation, I'm now also diving into the world of programming, learning how to code to expand my creative horizons and potentially build tools for artists.</p>
+<p align="left">I am a dedicated **Programmer** passionate about building innovative software solutions. My journey in tech is driven by curiosity and a desire to create impactful applications. I'm also currently expanding my skill set by diving into the vibrant world of **Character Design Art**!</p>
 
-- ✨ Student of life, always eager to explore new artistic techniques and coding concepts.
-- 🌱 I’m currently focused on improving my character design skills and mastering the fundamentals of coding.
-- 🎨 My passion lies in bringing characters to life through design, expression, and visual storytelling.
-- 💻 Learning how to code to bridge the gap between art and technology, exploring areas like interactive art or game development tools.
-- ❤️ Always open to collaborating on creative projects or sharing insights on art and coding.
-<!--End Intro-->
+- ✨ Student of life, always eager to explore new coding paradigms and artistic techniques.
+- 🌱 I’m currently focused on mastering frontend frameworks.
+- 🎨 Simultaneously, I’m building my foundation in character design, learning how to bring unique personalities to life visually.
+- 💻 My aim is to bridge the gap between robust code and captivating visuals, exploring areas like game development, interactive experiences, or creative tool creation.
+- ❤️ Always open to collaborating on challenging coding projects or sharing artistic insights.
 
 <!--Profile Count Badge-->
 <p align="left">
