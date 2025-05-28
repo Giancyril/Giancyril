@@ -12,10 +12,10 @@
 </div>
 
 <!--Header Name-->
-*(Artist / Programmer)*
+*Programmer / Artist*
 <br /> 
 
-<p align="left">I am a dedicated **Programmer** passionate about building innovative software solutions. My journey in tech is driven by curiosity and a desire to create impactful applications. I'm also currently expanding my skill set by diving into the vibrant world of **Character Design Art**!</p>
+<p align="left">I am a dedicated Programmer passionate about building innovative software solutions. My journey in tech is driven by curiosity and a desire to create impactful applications. I'm also currently expanding my skill set by diving into the vibrant world of Character Design Art!</p>
 
 - ✨ Student of life, always eager to explore new coding paradigms and artistic techniques.
 - 🌱 I’m currently focused on mastering frontend frameworks.
