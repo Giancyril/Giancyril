@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-![Header](./github-header-image.png)
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
