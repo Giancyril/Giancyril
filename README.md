@@ -79,7 +79,7 @@
 <br />
 
 
-<h2 align="center">💻 Pʀᴏɢʀᴀᴍᴍɪɴɢ & Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ Sᴛᴀᴄᴋ💻</h2>
+<h2 align="center">💻Tᴇᴄʜ Sᴛᴀᴄᴋ💻</h2>
 <p align="center">
   <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
