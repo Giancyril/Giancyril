@@ -47,9 +47,9 @@
 <br />
 <h3 align="left">Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h3>
 <ul align="left">
+  <li>Building foundational skills in PHP and other languages for creative tools and web basics.</li>
   <li>Deepening my understanding of character anatomy and working on expressive posing.</li>
   <li>Exploring advanced rendering techniques in Procreate/Photoshop for polished visuals.</li>
-  <li>Building foundational skills in PHP and other languages for creative tools and web basics.</li>
   <li>Dabbling in basic game development, experimenting with Unity/Godot.</li>
 </ul>
 
