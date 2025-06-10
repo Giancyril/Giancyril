@@ -26,12 +26,7 @@
 - 💻 My aim is to bridge the gap between robust code and captivating visuals, exploring areas like game development, interactive experiences, or creative tool creation.
 - ❤️ Always open to collaborating on challenging coding projects or sharing artistic insights.
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Giancyril&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Giancyril" style="padding-right:20px;" />
-</p>
-
----
+</br>
 
 
 <!--Languages and Tools Section-->       
