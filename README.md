@@ -20,12 +20,14 @@
 
 <p align="left">I am a dedicated Programmer passionate about building innovative websites. I'm also currently expanding my skill set by diving into the vibrant world of Character Design Art!</p>
 
-- ✨ A student of life and continuously exploring new things and techniques in art. 
-- 🌱 Currently, mastering frontend frameworks. 
-- ✏️ Simultaneously, I’m building my foundation in character design, learning how to bring unique personalities to life visually.
-- 💻 I want to bridge the gap between coding and design in areas like game development, interactive experiences, or creative tools. 
-- ❤️ Always up for coding collaborations or sharing some artistic insight!
+</br>
 
+- 💻 Continuously exploring new things and techniques in art. 
+- 🌱 Currently, mastering frontend frameworks. 
+- ✏️ Simultaneously, I’m building my foundation in character design.
+- ❤️ Always up for coding collaborations or sharing some artistic insight!
+</br>
+</br>
 </br>
 
 
