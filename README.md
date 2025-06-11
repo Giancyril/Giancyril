@@ -7,13 +7,16 @@
 </h1>
 
 <br />
-<!--Night Owl image-->
+
 <div>
   <div>
   <img align="right" width="40%" src="https://github.com/Giancyril/Giancyril/raw/main/knight.jfif">
 </div>
 </div>
 
+<br />
+<br />
+<br />
 <!--Header Name-->
 *Programmer / Artist*
 <br /> 
