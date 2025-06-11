@@ -16,7 +16,6 @@
 
 <br />
 <br />
-<br />
 
 <!--Header Name-->
 *Programmer / Artist*
@@ -24,7 +23,6 @@
 
 <p align="left">I am a dedicated Programmer passionate about building innovative websites. I'm also currently expanding my skill set by diving into the vibrant world of Character Design Art!</p>
 
-</br>
 
 - 💻 Continuously exploring new things and techniques in art. 
 - 🌱 Currently, mastering frontend frameworks. 
