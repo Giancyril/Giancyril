@@ -17,8 +17,7 @@
 <br />
 <br />
 
-<!--Header Name-->
-*Programmer / Artist*
+
 <br /> 
 
 <p align="left">I am a dedicated Programmer passionate about building innovative websites. I'm also currently expanding my skill set by diving into the vibrant world of Character Design Art!</p>
