@@ -6,13 +6,6 @@
   </a>
 </h1>
 
-
-<br />
-<br />
-
-<!--Languages and Tools Section-->       
-<h2 align="center">💻Tᴇᴄʜɴᴏʟᴏɢɪᴇs & Cʀᴇᴀᴛɪᴠᴇ Sᴏғᴛᴡᴀʀᴇ💻</h2> 
-<br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -40,6 +33,7 @@
 
 <br />
 
+<br />
 <br />
 <br />
 <br />
