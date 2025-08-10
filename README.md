@@ -4,14 +4,14 @@
   </a>
 </h1>
 
-<div style="position: relative; width: 100%; height: 500px; margin-bottom: 20px;">
+<div style="position: relative; width: 100%; height: 500px; margin-bottom: 15px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
     <img alt="Skills Animation" src="./Skills_Animation_White.gif" style="position: absolute; top: 0; left: 0; z-index: 1;">
   </picture>
 
-  <img src="https://github.com/Giancyril/Giancyril/raw/main/knight.jfif" style="position: absolute; right: 0; bottom: 0; z-index: 1; width: 35%; max-width: 300px;">
+  <img src="https://github.com/Giancyril/Giancyril/raw/main/knight.jfif" style="position: absolute; right: 0; bottom: 0; z-index: 2; width: 35%; max-width: 300px;">
 </div>
 
 <br />
