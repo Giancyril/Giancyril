@@ -6,36 +6,13 @@
   </a>
 </h1>
 
-<br />
-
-<div>
-  <div>
-  <img align="right" width="40%" src="https://github.com/Giancyril/Giancyril/raw/main/knight.jfif">
-</div>
-</div>
 
 <br />
 <br />
-
-
-<br /> 
-
-<p align="left">I am a dedicated Programmer passionate about building innovative websites. I'm also currently expanding my skill set by diving into the vibrant world of Character Design Art!</p>
-
-
-- 💻 Continuously exploring new things and techniques in art. 
-- 🌱 Currently, mastering frontend frameworks. 
-- ✏️ Simultaneously, I’m building my foundation in character design.
-- ❤️ Always up for coding collaborations or sharing some artistic insight!
-</br>
-</br>
-</br>
-<br />
-<br />
-
 
 <!--Languages and Tools Section-->       
 <h2 align="center">💻Tᴇᴄʜɴᴏʟᴏɢɪᴇs & Cʀᴇᴀᴛɪᴠᴇ Sᴏғᴛᴡᴀʀᴇ💻</h2> 
+<br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -45,15 +22,16 @@
 
 
 <br />
+
+<br />
+  <div>
+  <img align="right" width="40%" src="https://github.com/Giancyril/Giancyril/raw/main/knight.jfif">
+
 <br />
 <br />
-<h3 align="left">Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h3>
-<ul align="left">
-  <li>Building foundational skills in PHP and other languages for creative tools and web basics.</li>
-  <li>Deepening my understanding of character anatomy and working on expressive posing.</li>
-  <li>Exploring advanced rendering techniques in Procreate/Photoshop for polished visuals.</li>
-  <li>Dabbling in basic game development, experimenting with Unity/Godot.</li>
-</ul>
+<br />
+<br />
+<br />
 
 <br />
 <br />
@@ -62,7 +40,12 @@
 
 <br />
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
