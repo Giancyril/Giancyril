@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!;I+am+Aech...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 <div style="position: relative; width: 100%; height: 500px; margin-bottom: 15px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
