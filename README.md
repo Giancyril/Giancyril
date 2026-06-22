@@ -7,7 +7,7 @@
   <img src="https://github.com/Giancyril/Giancyril/raw/main/knight.png" style="position: absolute; right: 0; bottom: 0; z-index: 2; width: 35%; max-width: 300px;">
 </div>
 <br />
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center"> Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 <table align="center">
   <tbody>
     <tr border="none">
@@ -25,7 +25,7 @@
 <br />
 
 <div align="center">
-  <h3>Languages I used:</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs,postgres,laravel,dart,vite,docker,flutter,supabase" alt="Skills" />
+  <h3>Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs,postgres,laravel,supabase" alt="Skills" />
 </div>
 <br />
