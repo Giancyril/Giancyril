@@ -1,10 +1,14 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=A78BFA&width=435&lines=Hello%2C+it's+Gian!;Full-Stack+Developer;Character+Designer" alt="Typing SVG"/>
+</a>
+
 <div style="position: relative; width: 100%; height: 500px; margin-bottom: 15px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
     <img alt="Skills Animation" src="./Skills_Animation_White.gif" style="position: absolute; top: 0; left: 0; z-index: 1;">
   </picture>
-  <img src="https://github.com/Giancyril/Giancyril/raw/main/knight.png" style="position: absolute; right: 0; bottom: 0; z-index: 2; width: 35%; max-width: 300px;">
+  <img src="./assets/terminal.gif" style="position: absolute; right: 0; bottom: 0; z-index: 2; width: 55%; max-width: 420px;" alt="Terminal GIF">
 </div>
 <br />
 <h2 align="center"> Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
@@ -23,7 +27,6 @@
   </tbody>
 </table>
 <br />
-
 <div align="center">
   <h3>Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nodejs,postgres,laravel,supabase" alt="Skills" />
