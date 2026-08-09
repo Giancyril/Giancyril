@@ -6,9 +6,9 @@
 
 - 🔭 Building AI-augmented platforms **Pulse** (NL-to-SQL analytics), **ArchCheck** (AI architecture reviewer)
 - 🌱 Also shipping AI tools for support (**Relay**), finance (**FinBot**), scheduling (**Tempo**), and IT fleet monitoring (**Vantry**)
-- 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js, FastAPI, Prisma/PostgreSQL
-- 🎨 Focused on clean, modern UI/UX dashboards, and real-time interactivity
-- 🎨 Outside of development, I design fantasy characters and build worlds
+- 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js
+- 🎨 I build clean, modern UI/UX dashboards with real-time interactivity
+- 🎨 I also design fantasy characters and build worlds
 - 📫 Let's connect reach out via email below
 
 <p>
