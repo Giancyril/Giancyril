@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer & UI/UX Enthusiast/ Character Designer**
 
-- 🔭 Building AI-augmented platforms **Pulse** (NL-to-SQL analytics), **ArchCheck** (AI architecture reviewer), and **Synthis** (grounded AI research assistant)
+- 🔭 Building AI-augmented platforms **Pulse** (NL-to-SQL analytics), **ArchCheck** (AI architecture reviewer)
 - 🌱 Also shipping AI tools for support (**Relay**), finance (**FinBot**), scheduling (**Tempo**), and IT fleet monitoring (**Vantry**)
 - 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js, FastAPI, Prisma/PostgreSQL
 - 🎨 Focused on clean, modern UI/UX dashboards, and real-time interactivity
