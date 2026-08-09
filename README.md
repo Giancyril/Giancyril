@@ -53,6 +53,5 @@
 | 🔗 [**Tempo**](https://github.com/Giancyril/Tempo) | AI calendar planner that turns natural language goals into a scheduled week, with chronotype-aware energy planning and burnout detection | Next.js · LangChain · Prisma |
 | 🔗 [**Hermes**](https://github.com/Giancyril/Hermes) | AI email assistant with Gmail sync, thread summarization, tone-matched draft generation, and urgency classification | Next.js · Express · Gemini |
 | 🔗 [**Debrief**](https://github.com/Giancyril/Debrief) | AI meeting summarizer that transcribes audio, extracts grounded action items and decisions, and drafts follow-up emails | FastAPI · Gemini Audio |
-| 🔗 [**DTR**](https://github.com/Giancyril/DTR) | Digital Daily Time Record system with dual-session clock-in, auto late detection, and official CS Form 48 PDF export | React · Redux Toolkit · Prisma |
 
 <br />
