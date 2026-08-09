@@ -1,13 +1,24 @@
-<div style="position: relative; width: 100%; height: 500px; margin-bottom: 15px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Skills Animation" src="./Skills_Animation_White.gif" style="position: absolute; top: 0; left: 0; z-index: 1;">
-  </picture>
-  <img src="https://github.com/Giancyril/Giancyril/raw/main/knight.png" style="position: absolute; right: 0; bottom: 0; z-index: 2; width: 35%; max-width: 300px;">
-</div>
+<img align="right" src="./Skills_Animation_Dark.gif" alt="Skills Animation" width="500" />
+
+<h3 style="font-size: 2.2em; margin-bottom: 0;">Hi there, I'm Gian Cyril</h3>
+
+**Full-Stack Web Developer & UI/UX Enthusiast/ Character Designer**
+
+- 🔭 Building AI-augmented platforms **Pulse** (NL-to-SQL analytics), **ArchCheck** (AI architecture reviewer), and **Synthis** (grounded AI research assistant)
+- 🌱 Also shipping AI tools for support (**Relay**), finance (**FinBot**), scheduling (**Tempo**), and IT fleet monitoring (**Vantry**)
+- 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js, FastAPI, Prisma/PostgreSQL
+- 🎨 Focused on clean, modern UI/UX dashboards, and real-time interactivity
+- 🎨 Also a **fantasy character designer** on the side worldbuilding and character art in my off hours
+- 📫 Let's connect reach out via email below
+
+<p>
+  <a href="mailto:mijaresgiancyril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<br clear="both" />
 
 <br />
+
 <h2 align="center"> Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 <table align="center">
   <tbody>
