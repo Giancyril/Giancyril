@@ -1,4 +1,4 @@
-<img align="right" src="./Skills_Animation_Dark.gif" alt="Skills Animation" width="350" />
+<img align="right" src="./Skills_Animation_Dark.gif" alt="Skills Animation" width="400" />
 
 <h3 style="font-size: 2.2em; margin-bottom: 0;">Hi there, I'm Gian Cyril</h3>
 
@@ -14,8 +14,6 @@
 <p>
   <a href="mailto:mijaresgiancyril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<br clear="both" />
 
 <br />
 
