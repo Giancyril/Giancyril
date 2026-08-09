@@ -8,7 +8,7 @@
 - 🌱 Also shipping AI tools for support (**Relay**), finance (**FinBot**), scheduling (**Tempo**), and IT fleet monitoring (**Vantry**)
 - 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js, FastAPI, Prisma/PostgreSQL
 - 🎨 Focused on clean, modern UI/UX dashboards, and real-time interactivity
-- 🎨 Also a **fantasy character designer** on the side worldbuilding and character art in my off hours
+- 🎨 Outside of development, I design fantasy characters and build worlds
 - 📫 Let's connect reach out via email below
 
 <p>
