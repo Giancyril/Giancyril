@@ -39,19 +39,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs,postgres,laravel,supabase" alt="Skills" />
 </div>
 <br />
-
-<h2 align="center"> Featured Projects</h2>
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔗 [**Pulse**](https://github.com/Giancyril/Pulse) | AI-powered data analytics platform — chat with spreadsheets & SQL databases in natural language to generate queries, dashboards, and forecasts | FastAPI · Next.js · Gemini |
-| 🔗 [**ArchCheck**](https://github.com/Giancyril/ArchCheck) | Upload a system architecture diagram and get structured AI feedback on scalability, reliability, cost, and security — plus auto-generated IaC | Next.js · Gemini Vision · Mermaid.js |
-| 🔗 [**Synthis**](https://github.com/Giancyril/Synthis) | A grounded AI research assistant with multi-query planning, citation verification, bibliography export, and zero-hallucination reporting | FastAPI · Gemini · Tavily · React |
-| 🔗 [**Vantry**](https://github.com/Giancyril/Vantry) | Real-time lab PC fleet monitoring for academic institutions — RFID occupancy tracking, telemetry dashboards, and threshold alerting | Electron · Express · WebSocket · Prisma |
-| 🔗 [**Relay**](https://github.com/Giancyril/Relay) | Customer support AI agent with grounded RAG, multi-turn memory, confidence-based escalation, and a live telemetry dashboard | FastAPI · Gemini · ChromaDB · React |
-| 🔗 [**FinBot**](https://github.com/Giancyril/FinBot) | Personal finance chatbot with live bank sync via Plaid, AI-powered budget creation, and spending analytics via Gemini function calling | Node.js · Plaid · Gemini · PostgreSQL |
-| 🔗 [**Tempo**](https://github.com/Giancyril/Tempo) | AI calendar planner that turns natural language goals into a scheduled week, with chronotype-aware energy planning and burnout detection | Next.js · LangChain · Prisma |
-| 🔗 [**Hermes**](https://github.com/Giancyril/Hermes) | AI email assistant with Gmail sync, thread summarization, tone-matched draft generation, and urgency classification | Next.js · Express · Gemini |
-| 🔗 [**Debrief**](https://github.com/Giancyril/Debrief) | AI meeting summarizer that transcribes audio, extracts grounded action items and decisions, and drafts follow-up emails | FastAPI · Gemini Audio |
-
-<br />
