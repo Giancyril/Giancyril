@@ -1,4 +1,4 @@
-<img align="right" src="./Skills_Animation_Dark.gif" alt="Skills Animation" width="400" />
+<img align="right" src="https://raw.githubusercontent.com/Giancyril/Giancyril/main/Skills_Animation_Dark.gif" alt="Skills Animation" width="400" />
 
 <h3 style="font-size: 2.2em; margin-bottom: 0;">Hi there, I'm Gian Cyril</h3>
 
