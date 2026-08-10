@@ -4,12 +4,16 @@
 
 **Full-Stack Web Developer & UI/UX Enthusiast/ Character Designer**
 
+<div style="text-align: justify;">
+
 - 🔭 Building AI-augmented platforms **Pulse** (NL-to-SQL analytics), **ArchCheck** (AI architecture reviewer)
 - 🌱 Also shipping AI tools for support (**Relay**), finance (**FinBot**), scheduling (**Tempo**), and IT fleet monitoring (**Vantry**)
 - 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js
 - 🎨 I build clean, modern UI/UX dashboards with real-time interactivity
 - 🎨 I also design fantasy characters and build worlds
 - 📫 Let's connect reach out via email below
+
+</div>
 
 <p>
   <a href="mailto:mijaresgiancyril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
