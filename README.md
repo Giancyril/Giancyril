@@ -6,10 +6,9 @@
 
 <div style="text-align: justify;">
 
-- 🔭 Building AI-augmented platforms **Pulse** (NL-to-SQL analytics), **ArchCheck** (AI architecture reviewer)
-- 🌱 Also shipping AI tools for support (**Relay**), finance (**FinBot**), scheduling (**Tempo**), and IT fleet monitoring (**Vantry**)
+- 🔭 I build AI-augmented platforms that solve real business and workflow problems
 - 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js
-- 🎨 I build clean, modern UI/UX dashboards with real-time interactivity
+- 🎨 I build clean, modern, real-time dashboard experiences
 - 🎨 I also design fantasy characters and build worlds
 - 📫 Let's connect reach out via email below
 
