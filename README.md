@@ -6,7 +6,7 @@
 
 <div style="text-align: justify;">
 
-- 🔭 I build AI-augmented platforms spanning analytics, architecture review, customer support, finance, scheduling, IT operations, and more
+- 🔭 I build AI-augmented platforms spanning analytics, architecture review, customer support, finance, IT operations, and more
 - 💻 Stack: TypeScript, Python, PHP, Dart, React, Next.js, Node.js
 - 🎨 I build clean, modern, real-time dashboard experiences
 - 🎨 I also design fantasy characters and build worlds
