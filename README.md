@@ -16,6 +16,7 @@
 
 <p>
   <a href="mailto:mijaresgiancyril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://giancyril.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br />
