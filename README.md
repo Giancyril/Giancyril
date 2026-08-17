@@ -16,7 +16,7 @@
 
 <p>
   <a href="mailto:mijaresgiancyril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://giancyril.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://giancyril.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=Giancyril&label=Profile%20Views&style=for-the-badge&color=6366F1" alt="Profile Views"/>
 </p>
 
