@@ -41,7 +41,7 @@
 
 <div align="center">
   <h3>Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs,python,laravel,dart" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs,python,laravel" alt="Skills" />
 </div>
 <br />
 
