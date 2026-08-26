@@ -2,7 +2,7 @@
 
 <h3 style="font-size: 2.2em; margin-bottom: 0;">Hi there, I'm Gian Cyril</h3>
 
-**Full-Stack Web Developer & UI/UX Enthusiast/ Character Designer**
+**Full-Stack Developer & UI/UX Enthusiast/ Character Designer**
 
 <div style="text-align: justify;">
 
