@@ -7,7 +7,7 @@
 <div style="text-align: justify;">
 
 - 🔭 I build AI-augmented platforms spanning analytics, architecture review, customer support, finance, IT operations, and more
-- 💻 Tech Stack: MERN, Next.js, Python-Django, React
+- 💻 💻 Stack: TypeScript, Python (FastAPI), Node.js, React, Next.js, PHP, Dart
 - 🎨 I build clean, modern, real-time dashboard experiences
 - 🎨 I also design fantasy characters and build worlds
 - 📫 Let's connect reach out via email below
