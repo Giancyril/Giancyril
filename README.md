@@ -4,7 +4,6 @@ Full-stack developer building AI-augmented platforms that turn data into decisio
 
 - 🔭 **Currently building:** real-time dashboards and AI-driven tooling
 - 🌱 **Currently exploring:** new AI/agent workflows for dev tooling
-- 🎯 **2026 goal:** ship more open-source components from my dashboard work
 - 🧰 **Stack:** TypeScript · Python · Node.js · React · Next.js · PHP · Dart
 - 🎨 **Side project:** character design & world-building
 - 📫 **Reach me:** [mijaresgiancyril@gmail.com](mailto:mijaresgiancyril@gmail.com)
