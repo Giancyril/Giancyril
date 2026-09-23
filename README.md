@@ -1,11 +1,11 @@
-<img align="right" src="https://raw.githubusercontent.com/Giancyril/Giancyril/main/Skills_Animation_Dark.gif" alt="Skills Animation" width="400" />
+<img align="right" src="https://raw.githubusercontent.com/Giancyril/Giancyril/main/Skills_Animation_Dark.gif" alt="Skills Animation" width="380" />
 
 **Full-Stack Developer · UI/UX Designer · Character Artist**
 
 I build AI-augmented platforms across analytics, architecture review, customer support, and finance/IT operations and design fantasy characters and worlds on the side.
 
 - 🔭 **Currently building:** real-time dashboards and AI-driven tooling
-- 💻 **Stack:** TypeScript, Python (FastAPI), Node.js, React, Next.js, PHP, Dart
+- 💻 **Stack:** TypeScript, Python, Node.js, React, Next.js, PHP, Dart
 - 🎨 **Also into:** character design, world-building
 - 📫 **Reach me:** mijaresgiancyril@gmail.com
 
