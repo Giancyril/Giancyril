@@ -1,13 +1,13 @@
-<img align="right" src="https://raw.githubusercontent.com/Giancyril/Giancyril/main/Skills_Animation_Dark.gif" alt="Skills Animation" width="380" />
+<img align="right" src="https://raw.githubusercontent.com/Giancyril/Giancyril/main/Skills_Animation_Dark.gif" alt="Skills Animation" width="360" />
 
-**Full-Stack Developer · UI/UX Designer · Character Artist**
-
-I build AI-augmented platforms across analytics, architecture review, customer support, and finance/IT operations and design fantasy characters and worlds on the side.
+Full-stack developer building AI-augmented platforms that turn data into decisions — across analytics, architecture review, support, and operations.
 
 - 🔭 **Currently building:** real-time dashboards and AI-driven tooling
-- 💻 **Stack:** TypeScript, Python, Node.js, React, Next.js, PHP, Dart
-- 🎨 **Also into:** character design, world-building
-- 📫 **Reach me:** mijaresgiancyril@gmail.com
+- 🌱 **Currently exploring:** new AI/agent workflows for dev tooling
+- 🎯 **2026 goal:** ship more open-source components from my dashboard work
+- 🧰 **Stack:** TypeScript · Python · Node.js · React · Next.js · PHP · Dart
+- 🎨 **Side project:** character design & world-building
+- 📫 **Reach me:** [mijaresgiancyril@gmail.com](mailto:mijaresgiancyril@gmail.com)
 
 <p>
   <a href="mailto:mijaresgiancyril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
