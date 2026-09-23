@@ -8,6 +8,7 @@ Full-stack developer building AI-augmented platforms that turn data into decisio
 - 🎨 **Side project:** character design & world-building
 - 📫 **Reach me:** [mijaresgiancyril@gmail.com](mailto:mijaresgiancyril@gmail.com)
 
+<br />
 <p>
   <a href="mailto:mijaresgiancyril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://giancyril.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
