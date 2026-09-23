@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/Giancyril/Giancyril/main/Skills_Animation_Dark.gif" alt="Skills Animation" width="360" />
+<img align="right" src="https://raw.githubusercontent.com/Giancyril/Giancyril/main/Skills_Animation_Dark.gif" alt="Skills Animation" width="350" />
 
 Full-stack developer building AI-augmented platforms that turn data into decisions across analytics, architecture review, support, and operations.
 
