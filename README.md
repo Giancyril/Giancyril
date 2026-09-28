@@ -37,5 +37,5 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nextjs,php" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nextjs" alt="Skills" />
 </p>
