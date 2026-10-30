@@ -106,5 +106,3 @@ AI-powered personal finance chatbot with Plaid bank sync, Google Gemini Function
 - **Vet** — AI-powered pull request reviewer with a 4-persona multi-agent committee (security, performance, clean code, testing), PR health scoring, AST breaking-change detection, pre-LLM secret scanning, OWASP classification, and 1-click auto-remediation. Built with FastAPI, Next.js, and Gemini 2.5. · <a href="https://github.com/Giancyril/Vet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </details>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=giancyril&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
