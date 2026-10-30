@@ -17,7 +17,7 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 
 <br clear="both" />
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <table align="center">
   <tr>
@@ -34,25 +34,25 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 
 <br />
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nodejs,nextjs" alt="Skills" />
 </p>
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Waypoint**
+**Anchor**
 
-Autonomous AI GitHub Issue Solver: reads an issue, builds a plan, writes code in a sandboxed workspace, and opens a draft PR for human review. Features AST codebase indexing, multi-model routing, a time-travel debugger, and a multi-agent solution tournament. Built with FastAPI, LangGraph, Next.js, and Gemini.
+RAG customer support agent that answers only from your documents and cites the source of every answer. Hybrid vector and keyword retrieval with reranking, a confidence gate that declines to guess, multi-turn memory, frustration detection with human handoff, and a 31-test suite that includes hallucination checks.
 
-`Python` · `0 stars`
+`TypeScript` · `FastAPI` · `Next.js` · `Pinecone`
 
-<a href="https://github.com/Giancyril/Waypoint"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/Giancyril/Anchor"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -70,24 +70,24 @@ Production-grade lab PC fleet monitoring platform for academic institutions. Fea
 <tr>
 <td width="50%" valign="top">
 
-**Anchor**
+**Perimeter**
 
-Production-grade RAG customer support agent with hybrid dense+BM25 retrieval, cross-encoder reranking, inline grounded citations, multi-turn memory, intent/sentiment analysis, automated KB sync, HITL escalation, and RAG Triad observability. Built with FastAPI, Pinecone, and Next.js.
+AI security operations agent. Normalizes alerts from Wazuh, Splunk, Elastic, and Sentinel, maps them to MITRE ATT&CK, and investigates with a LangGraph agent. Severity has a deterministic floor the model cannot lower, and containment actions wait for analyst approval. Tested against prompt-injection patterns and replayed attacks, with an evaluation gate in CI.
 
-`TypeScript` · `0 stars`
+`Python` · `FastAPI` · `LangGraph` · `React`
 
-<a href="https://github.com/Giancyril/Anchor"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/Giancyril/Perimeter"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**FinBot**
+**Assay**
 
-AI-powered personal finance chatbot with Plaid bank sync, Google Gemini Function Calling (create budgets &amp; log transactions via chat), spending analytics, month-over-month comparisons, savings goals, subscription detection &amp; AES-256 encrypted token storage. Built with React, Node.js &amp; PostgreSQL.
+Contract compliance agent. Checks documents against versioned rules and returns Compliant, Violation, or Needs Review. Every finding must carry a verbatim quote that code verifies against the source text, or the finding is rejected. Hybrid pgvector and BM25 retrieval, a human review workspace, and a hash-chained audit ledger.
 
-`JavaScript` · `0 stars`
+`Python` · `FastAPI` · `LangGraph` · `React`
 
-<a href="https://github.com/Giancyril/FinBot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/Giancyril/Assay"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
@@ -98,8 +98,12 @@ AI-powered personal finance chatbot with Plaid bank sync, Google Gemini Function
 
 <br/>
 
-- **Pulse** — AI-powered data analytics platform: chat with spreadsheets and SQL databases in natural language to generate queries, dashboards, and business insights, with automated data profiling, forecasting, and real-time metric alerting. Built with FastAPI, Next.js, and Google Gemini. · <a href="https://github.com/Giancyril/Pulse"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **Vet** — AI-powered pull request reviewer with a 4-persona multi-agent committee (security, performance, clean code, testing), PR health scoring, AST breaking-change detection, pre-LLM secret scanning, OWASP classification, and 1-click auto-remediation. Built with FastAPI, Next.js, and Gemini 2.5. · <a href="https://github.com/Giancyril/Vet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Medic**: Incident-response agent for Kubernetes. Investigates alerts with Prometheus and cluster data, proposes tiered fixes, and requires human approval for risky actions, with a hash-chained audit ledger. FastAPI, LangGraph, React. · <a href="https://github.com/Giancyril/Medic"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Pulse**: Chat with spreadsheets and SQL databases in plain English. Every generated query is parsed and validated before it runs, plus automated data profiling and forecasting. FastAPI, Next.js, Gemini. · <a href="https://github.com/Giancyril/Pulse"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Vet**: Pull request reviewer with a four-persona agent committee (security, performance, clean code, testing), PR health scoring, breaking-change detection, and pre-LLM secret scanning. FastAPI, Next.js, Gemini. · <a href="https://github.com/Giancyril/Vet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **FinBot**: Personal finance chatbot with Plaid bank sync and Gemini function calling to create budgets and log transactions from chat. React, Node.js, PostgreSQL. · <a href="https://github.com/Giancyril/FinBot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Precedent**: AI legal workspace built on Claude. Contract risk analysis, document chat grounded in the uploaded text, and legal research that cites real court opinions instead of model memory. Next.js, TypeScript. · <a href="https://github.com/Giancyril/Precedent"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Vantage**: AI news pipeline that discovers and scores articles, explains why each one matters to the reader, clusters duplicates, and sends a daily email digest. Next.js, TypeScript, Supabase. · <a href="https://github.com/Giancyril/Vantage"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </details>
 
