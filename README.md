@@ -17,7 +17,7 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 
 <br clear="both" />
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <table align="center">
   <tr>
@@ -34,13 +34,14 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 
 <br />
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nodejs,nextjs" alt="Skills" />
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&amp;labelColor=0d1117" alt="PHP" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;labelColor=0d1117" alt="Go" /> <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&amp;labelColor=0d1117" alt="Dart" />
+
 </p>
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
