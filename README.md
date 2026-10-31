@@ -39,9 +39,9 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,go,dart,react,nextjs,tailwind,redux&perline=12" alt="HTML, CSS, JavaScript, TypeScript, Python, PHP, Go, Dart, React, Next.js, Tailwind, Redux"></a>
   <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,electron,nodejs,express,fastapi,laravel,postgres,mysql,prisma,supabase,redis,elasticsearch&perline=12" alt="Flutter, Electron, Node.js, Express, FastAPI, Laravel, PostgreSQL, MySQL, Prisma, Supabase, Redis, Elasticsearch"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,electron,nodejs,express,threejs,fastapi,laravel,postgres,mysql,prisma,supabase,redis&perline=12" alt="Flutter, Electron, Node.js, Express, Three.js, FastAPI, Laravel, PostgreSQL, MySQL, Prisma, Supabase, Redis"></a>
   <br>
-  <a href="https://go-skill-icons.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,aws,githubactions,git,figma,sklearn,langchain,llamaindex,pytorch,huggingface,gemini&perline=12" alt="Docker, Kubernetes, AWS, GitHub Actions, Git, Figma, scikit-learn, LangChain, LlamaIndex, PyTorch, Hugging Face, Gemini"></a>
+  <a href="https://go-skill-icons.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,docker,kubernetes,aws,githubactions,git,figma,sklearn,langchain,llamaindex,pytorch,huggingface&perline=12" alt="Elasticsearch, Docker, Kubernetes, AWS, GitHub Actions, Git, Figma, scikit-learn, LangChain, LlamaIndex, PyTorch, Hugging Face"></a>
 </p>
 
 <h2 align="center">Featured Projects</h2>
