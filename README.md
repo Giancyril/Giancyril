@@ -41,7 +41,7 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
   <br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,electron,nodejs,express,threejs,fastapi,laravel,postgres,mysql,prisma,supabase,redis&perline=12" alt="Flutter, Electron, Node.js, Express, Three.js, FastAPI, Laravel, PostgreSQL, MySQL, Prisma, Supabase, Redis"></a>
   <br>
-  <a href="https://go-skill-icons.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,docker,kubernetes,aws,githubactions,git,figma,sklearn,langchain,llamaindex,pytorch,huggingface&perline=12" alt="Elasticsearch, Docker, Kubernetes, AWS, GitHub Actions, Git, Figma, scikit-learn, LangChain, LlamaIndex, PyTorch, Hugging Face"></a>
+  <a href="https://go-skill-icons.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,docker,kubernetes,aws,githubactions,git,figma,sklearn,langchain,llamaindex,pytorch,huggingface&perline=12" alt="Elasticsearch, Docker, Kubernetes, AWS, GitHub Actions, Git, Figma, scikit-learn, LangChain, LlamaIndex, PyTorch"></a>
 </p>
 
 <h2 align="center">Featured Projects</h2>
