@@ -22,12 +22,12 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Giancyril&theme=dark&show_icons=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Giancyril&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
       <br><br>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Giancyril&theme=dark&hide_border=false" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Giancyril&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancyril&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -41,7 +41,11 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
   <br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,electron,nodejs,express,threejs,fastapi,laravel,postgres,mysql,prisma,supabase,redis&perline=12" alt="Flutter, Electron, Node.js, Express, Three.js, FastAPI, Laravel, PostgreSQL, MySQL, Prisma, Supabase, Redis"></a>
   <br>
-  <a href="https://go-skill-icons.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,docker,kubernetes,aws,githubactions,git,figma,sklearn,langchain,llamaindex,pytorch,huggingface&perline=12" alt="Elasticsearch, Docker, Kubernetes, AWS, GitHub Actions, Git, Figma, scikit-learn, LangChain, LlamaIndex, PyTorch, Hugging Face"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=elasticsearch,docker,kubernetes,aws,githubactions,git,figma,sklearn,pytorch&perline=9" alt="Elasticsearch, Docker, Kubernetes, AWS, GitHub Actions, Git, Figma, scikit-learn, PyTorch"></a>
+  <br><br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6366F1?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
 <h2 align="center">Featured Projects</h2>
@@ -56,18 +60,18 @@ Autonomous AI GitHub Issue Solver: reads an issue, builds a plan, writes code in
 
 `Python` · `0 stars`
 
-<a href="https://github.com/Giancyril/Waypoint"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/Giancyril/Waypoint"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 **Vantry**
 
-Production-grade lab PC fleet monitoring platform for academic institutions. Features RFID tap-in/tap-out occupancy tracking, real-time telemetry dashboards, threshold-based alerting, security posture monitoring, hardware lifecycle tracking, ghost-session detection &amp; offline-resilient WebSocket architecture.
+Production-grade lab PC fleet monitoring platform for academic institutions. Features RFID tap-in/tap-out occupancy tracking, real-time telemetry dashboards, threshold-based alerting, security posture monitoring, hardware lifecycle tracking, ghost-session detection & offline-resilient WebSocket architecture.
 
 `TypeScript` · `0 stars`
 
-<a href="https://github.com/Giancyril/Vantry"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/Giancyril/Vantry"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
@@ -80,29 +84,29 @@ Production-grade RAG customer support agent with hybrid dense+BM25 retrieval, cr
 
 `TypeScript` · `0 stars`
 
-<a href="https://github.com/Giancyril/Anchor"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/Giancyril/Anchor"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 **FinBot**
 
-AI-powered personal finance chatbot with Plaid bank sync, Google Gemini Function Calling (create budgets &amp; log transactions via chat), spending analytics, month-over-month comparisons, savings goals, subscription detection &amp; AES-256 encrypted token storage. Built with React, Node.js &amp; PostgreSQL.
+AI-powered personal finance chatbot with Plaid bank sync, Google Gemini Function Calling (create budgets & log transactions via chat), spending analytics, month-over-month comparisons, savings goals, subscription detection & AES-256 encrypted token storage. Built with React, Node.js & PostgreSQL.
 
 `JavaScript` · `0 stars`
 
-<a href="https://github.com/Giancyril/FinBot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/Giancyril/FinBot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>More work samples</b>  <i>(click to expand)</i></summary>
 
 <br/>
 
-- **Pulse** — AI-powered data analytics platform: chat with spreadsheets and SQL databases in natural language to generate queries, dashboards, and business insights, with automated data profiling, forecasting, and real-time metric alerting. Built with FastAPI, Next.js, and Google Gemini. · <a href="https://github.com/Giancyril/Pulse"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **Vet** — AI-powered pull request reviewer with a 4-persona multi-agent committee (security, performance, clean code, testing), PR health scoring, AST breaking-change detection, pre-LLM secret scanning, OWASP classification, and 1-click auto-remediation. Built with FastAPI, Next.js, and Gemini 2.5. · <a href="https://github.com/Giancyril/Vet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Pulse** — AI-powered data analytics platform: chat with spreadsheets and SQL databases in natural language to generate queries, dashboards, and business insights, with automated data profiling, forecasting, and real-time metric alerting. Built with FastAPI, Next.js, and Google Gemini. · <a href="https://github.com/Giancyril/Pulse"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117" alt="Code" /></a>
+- **Vet** — AI-powered pull request reviewer with a 4-persona multi-agent committee (security, performance, clean code, testing), PR health scoring, AST breaking-change detection, pre-LLM secret scanning, OWASP classification, and 1-click auto-remediation. Built with FastAPI, Next.js, and Gemini 2.5. · <a href="https://github.com/Giancyril/Vet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117" alt="Code" /></a>
 
 </details>
