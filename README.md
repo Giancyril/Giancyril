@@ -5,7 +5,7 @@ Building AI-augmented platforms that turn data into decisions across analytics, 
 - 🔭 **Currently building:** real-time dashboards and AI-driven tooling
 - 🌱 **Currently exploring:** new AI/agent workflows for dev tooling
 - 🧰 **Stack:** TypeScript · Python · Node.js · React · Next.js · PHP
-- 🎨 **Side project:** character design & world building
+- 🎨 **Side project:** character design & world
 - 📫 **Reach me:** [mijaresgiancyril@gmail.com](mailto:mijaresgiancyril@gmail.com)
 
 <br />
